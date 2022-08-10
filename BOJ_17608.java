@@ -1,7 +1,7 @@
 /*
 2022.08.10. (수)
 https://boj.kr/17608
-막대기 문제 풀이
+"막대기" 문제 풀이
 */
 import java.io.*;
 import java.util.*;
